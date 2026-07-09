@@ -1,0 +1,10 @@
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Codex/session metadata
+.agents/
+.codex/
+.git/
