@@ -1,12 +1,13 @@
 # DND Campaign Workspace
 
-这个仓库用于记录当前 D&D 2024 / 5R 跑团资料。主要内容分为角色事实、队伍战役记录和升级建议三类。
+这个仓库用于记录当前 D&D 2024 / 5R 跑团资料。主要内容分为角色事实、队伍战役记录、团桌裁定和升级建议四类。
 
 ## 快速入口
 
 - [Nym 个人角色卡](characters/nym-copperstar.md)
 - [KEN 小队与战役记录](campaign/ken-party.md)
 - [KEN 小队探索地图](campaign/maps.md)
+- [团桌规则与版本裁定](campaign/table-rulings.md)
 - [Nym 升级与战术推荐](planning/nym-recommendations.md)
 
 ## 当前快照
@@ -27,7 +28,7 @@
 ## 维护原则
 
 - `characters/`：只放角色事实，例如属性、法术、物品、状态、背景。
-- `campaign/`：放队伍事实，例如任务、线索、NPC、冒险日志。
+- `campaign/`：放队伍事实与共享裁定，例如任务、线索、NPC、冒险日志、版本和法术桌规。
 - `assets/maps/`：放可直接在 GitHub 预览的探索地图；未知区域不会补写为事实。
 - `planning/`：放建议和规划，例如升级路线、法术选择、战术取舍。
 
