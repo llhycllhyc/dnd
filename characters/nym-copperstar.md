@@ -11,7 +11,7 @@
 | 护甲等级 Armor Class (AC) | 14（法师护甲 Mage Armor 生效中；基础 11） |
 | 生命骰 Hit Dice | 3d6，已用 0 |
 | 1 环法术位 1st-level Spell Slots | 3 / 4 |
-| 2 环法术位 2nd-level Spell Slots | 2 / 2 |
+| 2 环法术位 2nd-level Spell Slots | 1 / 2 |
 | 奥术回复 Arcane Recovery | 可用 |
 | 预兆 Portent | 2 枚 d20 待掷并记录；DM 允许升级后立即生成 |
 | 魔法启蒙（法师）Magic Initiate (Wizard) 免费护盾术 Shield | 可用 |
@@ -46,7 +46,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +1、善良 +1 |
 | 等级 Level | 3 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 913 / 2700 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 1063 / 2700 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -369,6 +369,8 @@
 | 第 2 天 | 结算法师 3 级升级并选择预言法师 | DM 裁定当前 HP 回满至 20 / 20，当前准备法术列表不变；生命骰 3d6；法术位上限 4 个 1 环、2 个 2 环；准备法术上限 6；获得预言专家与预兆 |
 | 第 2 天 | 法术书加入 4 个 2 环法术 | 蛛网术、迷踪步、占卜术、侦测思想 |
 | 第 2 天 | 获得经验 | XP +10，总 XP 913 |
+| 第 2 天 | 以 2 环法术位升环施放魔法飞弹 Magic Missile | 2 环法术位 -1，当前 1 / 2；产生 4 枚飞弹 |
+| 第 2 天 | 获得经验 | XP +150，总 XP 1063 |
 
 ## 已确认项
 
