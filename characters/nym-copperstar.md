@@ -46,7 +46,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +1、善良 +1、混乱 +1 |
 | 等级 Level | 3 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 1109 / 2700 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 1122 / 2700 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -379,6 +379,7 @@
 | 第 2 天 | 获得导师留下的星盘 | 当前由 Nym 持有；性质、用途及所含信息待调查 |
 | 第 2 天 | 完成短休并使用奥术回复 Arcane Recovery | 恢复 1 个 2 环法术位，当前 2 / 2；奥术回复已使用，长休后恢复 |
 | 第 2 天 | 获得阵营倾向 | 混乱 +1 |
+| 第 2 天 | 获得经验 | XP +13，总 XP 1122 |
 
 ## 已确认项
 
