@@ -47,7 +47,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +3、善良 +1、混乱 +5 |
 | 等级 Level | 3 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 1283 / 2700 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 1308 / 2700 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -428,6 +428,7 @@
 | 时间未记录 | 获得经验 | XP +14，总 XP 1263 |
 | 时间未记录 | 获得经验 | XP +20，总 XP 1283 |
 | 时间未记录 | 结算黑水晶任务 | Nym 交付所持 2 个黑水晶，Kael 交付另 1 个；从任务结算款中向蛋蛋与 Kael 各偿还 33 GP，欠款清零，并另获得 GP +17；当前 GP 19 |
+| 时间未记录 | 获得经验 | XP +25，总 XP 1308 |
 
 ## 已确认项
 
