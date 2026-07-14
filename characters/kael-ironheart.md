@@ -11,6 +11,7 @@
 | 当前生命值 Hit Points (HP) | 29 / 34 |
 | 临时生命值 Temporary Hit Points | 0 |
 | 护甲等级 Armor Class (AC) | 16（链甲 Chain Mail） |
+| 被动察觉 Passive Perception | 13 |
 | 生命骰 Hit Dice | 3d10，剩余 2 / 3 |
 | 回气 Second Wind | 2 / 2 |
 | 动作如潮 Action Surge | 1 / 1 |
@@ -45,7 +46,7 @@
 | 子职 Subclass | 战斗大师 Battle Master（3 级选择） |
 | 背景 Background | 士兵 Soldier |
 | 阵营 Alignment | 守序善良 Lawful Good (LG) |
-| 阵营倾向记录 | 混乱 +3，善良 +1 |
+| 阵营倾向记录 | 中立 +1，混乱 +3，善良 +1 |
 | 等级 Level | 3 |
 | 当前经验 / 下一级所需经验 Current XP / Next Level XP | 1018 / 2700（尚需 1682 XP） |
 | 熟练加值 Proficiency Bonus | +2 |
@@ -76,6 +77,7 @@
 | 生命骰 Hit Dice | 3d10 |
 | 先攻 Initiative | +2 |
 | 速度 Speed | 30 尺 |
+| 被动察觉 Passive Perception | 11 (10+1) |
 | 徒手打击 Unarmed Strike | 命中 +5，4 点钝击伤害 |
 
 生命值计算：
@@ -117,14 +119,14 @@
 | 驯兽 Animal Handling | 感知 WIS | 否 No | +1 |
 | 洞悉 Insight | 感知 WIS | 是 Yes | +3 |
 | 医药 Medicine | 感知 WIS | 否 No | +1 |
-| 察觉 Perception | 感知 WIS | 否 No | +1 |
+| 察觉 Perception | 感知 WIS | 是 Yes | +3 |
 | 生存 Survival | 感知 WIS | 是 Yes | +3 |
 | 欺瞒 Deception | 魅力 CHA | 否 No | -1 |
 | 威吓 Intimidation | 魅力 CHA | 是 Yes | +1 |
 | 表演 Performance | 魅力 CHA | 否 No | -1 |
 | 游说 Persuasion | 魅力 CHA | 否 No | -1 |
 
-技能来源合计：战士 2 项、士兵背景 2 项、人类娴熟 Skillful 1 项（洞悉 Insight）。
+技能来源合计：战士 2 项、士兵背景 2 项、人类娴熟 Skillful 1 项（洞悉 Insight）、战斗大师战争学徒 Student of War 1 项（察觉 Perception）。
 
 ### 语言与物品熟练 / Languages and Equipment Training
 
@@ -145,7 +147,7 @@
 | 动作如潮 Action Surge | 战士 Fighter | 1 / 1；短休或长休恢复 | 在自己的回合获得 1 个额外动作 Action |
 | 战术心智 Tactical Mind | 战士 Fighter | 能力检定失败时，可尝试消耗 1 次回气 | 将 1d10 加到检定结果；若仍失败，则不消耗回气次数 |
 | 战斗卓越 Combat Superiority | 战斗大师 Battle Master | 卓越骰 4d8，4 / 4；短休恢复全部 | 攻击或防御时消耗卓越骰以增强战技，命中后附加卓越骰伤害 |
-| 战争学徒 Student of War | 战斗大师 Battle Master | 常驻 Passive | 获得铁匠工具 Smith's Tools 熟练 |
+| 战争学徒 Student of War | 战斗大师 Battle Master | 常驻 Passive | 获得铁匠工具 Smith's Tools 熟练，并获得察觉 Perception 技能熟练 |
 | 足智多谋 Resourceful | 人类 Human | 每次长休 Long Rest 后 | 获得 1 次英雄激励 Heroic Inspiration |
 | 娴熟 Skillful | 人类 Human | 常驻 Passive | 获得洞悉 Insight 技能熟练 |
 | 多用 Versatile | 人类 Human | 常驻 Passive | 获得起源专长健壮 Tough |
@@ -168,6 +170,7 @@
 
 | 武器 Weapon | 命中 Attack | 伤害 Damage | 属性 Properties / Notes |
 |---|---:|---|---|
+| +1 巨剑 +1 Greatsword | +6 | 2d6 + 4 挥砍 Slashing | 魔法武器 Magic Weapon、双手 Two-Handed、重型 Heavy；精通：擦掠 Graze |
 | 巨剑 Greatsword | +5 | 2d6 + 3 挥砍 Slashing | 双手 Two-Handed、重型 Heavy；精通：擦掠 Graze |
 | 连枷 Flail | +5 | 1d8 + 3 钝击 Bludgeoning | 单手；精通：削弱 Sap |
 | 标枪 Javelin | +5 | 1d6 + 3 穿刺 Piercing | 投掷 30/120 尺；精通：减速 Slow |
