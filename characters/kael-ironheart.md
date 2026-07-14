@@ -7,21 +7,22 @@
 | 游戏内日期 In-game Day | 第 2 天 |
 | 当前地点 Current Location | 东北城外，河边小树林短休中 |
 | 等级 Level | 3 |
-| 当前经验 / 升级所需经验 Current XP / XP Needed | 1018 / 2700（尚需 1682 XP） |
-| 当前生命值 Hit Points (HP) | 29 / 34 |
+| 当前经验 / 升级所需经验 Current XP / XP Needed | 1521 / 2700（尚需 1179 XP） |
+| 当前生命值 Hit Points (HP) | 28 / 34 |
 | 临时生命值 Temporary Hit Points | 0 |
 | 护甲等级 Armor Class (AC) | 16（链甲 Chain Mail） |
-| 被动察觉 Passive Perception | 13 |
-| 生命骰 Hit Dice | 3d10，剩余 2 / 3 |
-| 回气 Second Wind | 2 / 2 |
-| 动作如潮 Action Surge | 1 / 1 |
+| 被动察觉 Passive Perception | 11 |
+| 生命骰 Hit Dice | 3d10，剩余 3 / 3 |
+| 回气 Second Wind | 1 / 2 |
+| 动作如潮 Action Surge | 0 / 1 |
 | 英雄激励 Heroic Inspiration | 0 / 1 |
-| 卓越骰 Superiority Dice | 4d8，剩余 4 / 4 |
+| 卓越骰 Superiority Dice | 4d8，剩余 2 / 4 |
 | 当前异常状态 Conditions | 未记录 |
 | 死亡豁免 Death Saving Throws | 成功 0 / 失败 0 |
 | 弓箭 Arrows | 19 / 20 |
 | 标枪 Javelins | 8 / 8 |
 | 匕首 Daggers | 1 / 1 |
+| 医疗工具包 Healer's Kit | 10 / 10 次 |
 
 战斗中常改：
 
@@ -48,7 +49,7 @@
 | 阵营 Alignment | 守序善良 Lawful Good (LG) |
 | 阵营倾向记录 | 中立 +1，混乱 +3，善良 +1 |
 | 等级 Level | 3 |
-| 当前经验 / 下一级所需经验 Current XP / Next Level XP | 1018 / 2700（尚需 1682 XP） |
+| 当前经验 / 下一级所需经验 Current XP / Next Level XP | 1521 / 2700（尚需 1179 XP） |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 中型 Medium |
 | 速度 Speed | 30 尺 |
@@ -77,7 +78,7 @@
 | 生命骰 Hit Dice | 3d10 |
 | 先攻 Initiative | +2 |
 | 速度 Speed | 30 尺 |
-| 被动察觉 Passive Perception | 11 (10+1) |
+| 被动察觉 Passive Perception | 11（10 + 感知调整值 1，不计察觉技能熟练） |
 | 徒手打击 Unarmed Strike | 命中 +5，4 点钝击伤害 |
 
 生命值计算：
@@ -143,10 +144,10 @@
 |---|---|---|---|
 | 武器精通 Weapon Mastery | 战士 Fighter | 掌握 3 种武器；每种精通效果通常每回合触发 1 次 | 当前掌握巨剑、标枪、连枷的精通战技；长休后可替换 1 种选择 |
 | 战斗风格：巨武器战斗 Great Weapon Fighting | 战士 Fighter | 使用双手武器攻击时 | 武器伤害骰掷出 1 或 2 时，将该结果视为 3 |
-| 回气 Second Wind | 战士 Fighter | 当前 2 / 2；附赠动作 Bonus Action | 恢复 1d10 + 3 HP；短休恢复 1 次，长休恢复全部 |
-| 动作如潮 Action Surge | 战士 Fighter | 1 / 1；短休或长休恢复 | 在自己的回合获得 1 个额外动作 Action |
+| 回气 Second Wind | 战士 Fighter | 当前 1 / 2；附赠动作 Bonus Action | 恢复 1d10 + 3 HP；短休恢复 1 次，长休恢复全部 |
+| 动作如潮 Action Surge | 战士 Fighter | 当前 0 / 1；短休或长休恢复 | 在自己的回合获得 1 个额外动作 Action |
 | 战术心智 Tactical Mind | 战士 Fighter | 能力检定失败时，可尝试消耗 1 次回气 | 将 1d10 加到检定结果；若仍失败，则不消耗回气次数 |
-| 战斗卓越 Combat Superiority | 战斗大师 Battle Master | 卓越骰 4d8，4 / 4；短休恢复全部 | 攻击或防御时消耗卓越骰以增强战技，命中后附加卓越骰伤害 |
+| 战斗卓越 Combat Superiority | 战斗大师 Battle Master | 卓越骰 4d8，当前 2 / 4；短休恢复全部 | 攻击或防御时消耗卓越骰以增强战技，命中后附加卓越骰伤害 |
 | 战争学徒 Student of War | 战斗大师 Battle Master | 常驻 Passive | 获得铁匠工具 Smith's Tools 熟练，并获得察觉 Perception 技能熟练 |
 | 足智多谋 Resourceful | 人类 Human | 每次长休 Long Rest 后 | 获得 1 次英雄激励 Heroic Inspiration |
 | 娴熟 Skillful | 人类 Human | 常驻 Passive | 获得洞悉 Insight 技能熟练 |
@@ -205,6 +206,7 @@
 
 | 物品 | 数量 | 说明 |
 |---|---:|---|
+| +1 巨剑 +1 Greatsword | 1 | 魔法双手近战武器；命中 +6，伤害 2d6 + 4；精通擦掠 Graze |
 | 巨剑 Greatsword | 1 | 主力双手近战武器；精通擦掠 Graze |
 | 连枷 Flail | 1 | 单手近战武器；精通削弱 Sap |
 | 标枪 Javelin | 8 | 当前 8 / 8；投掷武器，精通减速 Slow |
@@ -221,7 +223,7 @@
 |---|---:|---|
 | 链甲 Chain Mail | 1 | 当前穿戴，AC 16 |
 | 地城套组 Dungeoneer's Pack | 1 | 冒险装备 |
-| 医疗工具包 Healer's Kit | 1 | 急救用品 |
+| 医疗工具包 Healer's Kit | 1 | 急救用品，当前剩余 10 / 10 次使用 |
 | 骰子 Gaming Set (Dice) | 1 | 工具熟练 |
 | 旅行者服装 Traveler's Clothes | 1 套 | 日常服装 |
 | 大肚教传单 | 1 | 剧情物品 |
