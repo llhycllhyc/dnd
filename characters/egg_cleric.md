@@ -10,7 +10,7 @@
 |---|---|
 | 游戏内日期 In-game Day | 未记录 |
 | 当前地点 Current Location | 未记录 |
-| 当前生命值 Hit Points (HP) | 19 / 19 |
+| 当前生命值 Hit Points (HP) | 27 / 27 |
 | 临时生命值 Temporary Hit Points | 0 |
 | 护甲等级 Armor Class (AC) | 17 |
 | 生命骰 Hit Dice | 3d8，已用 0 |
@@ -68,7 +68,7 @@
 | 项目 | 数值 |
 |---|---|
 | 护甲等级 Armor Class (AC) | 17 |
-| 生命值上限 Hit Point Maximum | 19 |
+| 生命值上限 Hit Point Maximum | 27 |
 | 生命骰 Hit Dice | 3d8 |
 | 先攻 Initiative | +4 |
 | 速度 Speed | 30 尺 |
@@ -175,7 +175,7 @@
 
 | 法术 Spell | 来源 Source | 使用方式 Casting | 专注 / 仪式 Concentration / Ritual | 用途 Effect |
 |---|---|---|---|---|
-| 治愈真言 Healing Word（1 环） | 牧师准备 Cleric Prepared | 附赠动作 Bonus Action + 1 环位；射程 60 尺 60 ft. | 否 No / 否 No | 恢复 2d4 + 3 HP。Bonus Action，射程 60 ft.。 |
+| 治愈真言 Healing Word（1 环） | 牧师准备 Cleric Prepared | 附赠动作 Bonus Action + 1 环位；射程 60 尺 60 ft. | 否 No / 否 No | 恢复 2d4 + 6 HP（WIS +3，生命门徒 +3）。Bonus Action，射程 60 ft.。 |
 | 圣域术 Sanctuary（1 环） | 牧师准备 Cleric Prepared | 附赠动作 Bonus Action + 1 环位；射程 30 尺 30 ft. | 否 No / 否 No | 目标被攻击时，攻击者须通过 WIS 豁免，否则须另选目标。 |
 | 引导箭 Guiding Bolt（1 环） | 牧师准备 Cleric Prepared | 动作 Action + 1 环位；射程 120 尺 120 ft. | 否 No / 否 No | 远程法术攻击，命中造成 4d6 Radiant，下一次对目标的攻击有 Advantage。 |
 | 侦测魔法 Detect Magic（1 环） | 牧师准备 Cleric Prepared | 动作 Action + 1 环位，或仪式 Ritual；射程 自身 Self | 否 No / 是 Yes | 感知 30 ft. 内魔法灵光及其学派。 |
@@ -183,7 +183,7 @@
 | 治愈祷言 Prayer of Healing（2 环） | 牧师准备 Cleric Prepared | 10 分钟 10 Minutes + 2 环位；射程 30 尺 30 ft. | 否 No / 否 No | 至多 5 个全程留在射程内的目标获得一次短休收益，并各恢复 2d8 + 4 HP（含生命门徒）；每个生物每次长休前只能受益一次。 |
 | 援助术 Aid（2 环） | 生命领域（始终准备） Life Domain (Always Prepared) | 动作 Action + 2 环位；射程 30 尺 30 ft. | 否 No / 否 No | 选择至多 3 个目标；持续 8 小时，其最大 HP 与当前 HP 各增加 5。 |
 | 祝福术 Bless（1 环） | 生命领域（始终准备） Life Domain (Always Prepared) | 动作 Action + 1 环位；射程 30 尺 30 ft. | 是 Yes / 否 No | 最多 3 个目标，攻击掷骰和豁免检定额外加 1d4。 |
-| 疗伤术 Cure Wounds（1 环） | 生命领域（始终准备） Life Domain (Always Prepared) | 动作 Action + 1 环位；射程 触碰 Touch | 否 No / 否 No | 恢复 2d8 + 3 HP。触碰施法。 |
+| 疗伤术 Cure Wounds（1 环） | 生命领域（始终准备） Life Domain (Always Prepared) | 动作 Action + 1 环位；射程 触碰 Touch | 否 No / 否 No | 恢复 2d8 + 6 HP（WIS +3，生命门徒 +3）。触碰施法。 |
 | 次级复原术 Lesser Restoration（2 环） | 生命领域（始终准备） Life Domain (Always Prepared) | 附赠动作 Bonus Action + 2 环位；射程 触碰 Touch | 否 No / 否 No | 结束目标身上的 Blinded、Deafened、Paralyzed 或 Poisoned 状态之一。 |
 
 ## 其他已记录法术 / Other Recorded Spells
