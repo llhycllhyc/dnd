@@ -48,7 +48,7 @@
 | 阵营 Alignment | 中立善良 Neutral Good (NG) |
 | 阵营倾向记录 | 中立 +3、善良 +3、混乱 +5 |
 | 等级 Level | 3 |
-| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2429 / 2700 |
+| 总经验 / 升级所需总经验 Total XP / Total XP Needed | 2504 / 2700 |
 | 熟练加值 Proficiency Bonus | +2 |
 | 体型 Size | 小型 Small |
 | 速度 Speed | 30 尺 |
@@ -169,7 +169,7 @@
 |---|---|---|---|---|
 | 法师护甲 Mage Armor | 法师准备 Wizard Prepared | 动作 Action + 1 环位 | 否 No / 否 No | 8 小时 AC 变为 13 + 敏捷调整值 |
 | 魔法飞弹 Magic Missile | 法师准备 Wizard Prepared | 动作 Action + 1 环位 | 否 No / 否 No | 稳定命中，适合补刀或打断专注 Concentration |
-| 睡眠术 Sleep | 法师准备 Wizard Prepared | 动作 Action + 1 环位 | 是 Yes / 否 No | 低等级强控制，优先对低 HP 敌群使用 |
+| 羽落术 Feather Fall | 法师准备 Wizard Prepared | 反应 Reaction + 1 环位 | 否 No / 否 No | 反应性防坠落，可保护多个坠落目标 |
 | 蛛网术 Web | 法师准备 Wizard Prepared | 动作 Action + 2 环位 | 是 Yes / 否 No | 区域控场、束缚和分割敌人；需要合适锚点 |
 | 迷踪步 Misty Step | 法师准备 Wizard Prepared | 附赠动作 Bonus Action + 2 环位 | 否 No / 否 No | 传送 30 尺，用于脱离包围或跨越障碍 |
 | 侦测思想 Detect Thoughts | 法师准备 Wizard Prepared | 动作 Action + 2 环位 | 是 Yes / 否 No | 感知附近思想；深入探查可能触发豁免并暴露施法 |
@@ -183,12 +183,12 @@
 |---|---|---|---|
 | 法师护甲 Mage Armor | 是 Yes | 否 No | 长时间提高 AC |
 | 魔法飞弹 Magic Missile | 是 Yes | 否 No | 稳定命中，适合补刀 |
-| 睡眠术 Sleep | 是 Yes | 否 No | 低等级战斗强控 |
+| 睡眠术 Sleep | 否 No | 否 No | 低等级战斗强控 |
 | 侦测魔法 Detect Magic | 否 No | 是 Yes | 发现魔法痕迹、陷阱、物品 |
 | 通晓语言 Comprehend Languages | 否 No | 是 Yes | 读懂古代文献、神谕、碑文 |
 | 寻获魔宠 Find Familiar | 否 No | 是 Yes | 侦查、递送触碰法术、角色风味 |
 | 鉴定术 Identify | 否 No | 是 Yes | 识别魔法物品和魔法效果 |
-| 羽落术 Feather Fall | 否 No | 否 No | 防坠落，常见救命法术 |
+| 羽落术 Feather Fall | 是 Yes | 否 No | 防坠落，常见救命法术 |
 | 蛛网术 Web | 是 Yes | 否 No | 区域控场、束缚和分割敌人；需要合适锚点 |
 | 迷踪步 Misty Step | 是 Yes | 否 No | 以附赠动作传送 30 尺，用于脱离包围或跨越障碍 |
 | 占卜术 Augury | 否 No | 是 Yes | 预测未来 30 分钟内某项行动结果的大致吉凶；DM 裁定只要持有金币即可施放，不需额外准备道具。本次已以仪式施放并得到凶兆 Woe |
@@ -198,7 +198,7 @@
 
 - 战斗前如果可能，先施放法师护甲 Mage Armor。
 - 战斗中保持距离，不要站在前排。
-- 小怪密集或低血量敌人多时，用睡眠术 Sleep。
+- 进入高处、城墙或废墟前，保留羽落术 Feather Fall 的反应与 1 环法术位。
 - 完成长休并准备蛛网术 Web 后，敌人较多且锚点合适时，用它分割和束缚敌人，并保持专注。
 - 需要稳定收掉敌人时，用魔法飞弹 Magic Missile。
 - 被命中且这次命中很危险时，用护盾术 Shield。
@@ -462,9 +462,10 @@
 | 第 3 天，具体时段未记录 | 获得经验 | XP +30，总 XP 2387 |
 | 第 3 天，具体时段未记录 | 获得金币 | GP +10，当前 GP 31 |
 | 第 3 天，具体时段未记录 | 获得经验 | XP +42，总 XP 2429 |
-| 第 4 天早晨 | 完成长休 | HP、法术位、生命骰、奥术回复、免费护盾术与戒指使用次数恢复；未声明更换准备法术，故沿用既有准备法术。预兆骰待掷出并记录 2 枚；占卜术下一次施放结果正常准确；G +1 异常状态仍在 |
+| 第 4 天早晨 | 完成长休并重选准备法术 | HP、法术位、生命骰、奥术回复、免费护盾术与戒指使用次数恢复；将睡眠术 Sleep 替换为羽落术 Feather Fall，其余准备法术不变。预兆骰待掷出并记录 2 枚；占卜术下一次施放结果正常准确；G +1 异常状态仍在 |
 | 第 4 天早晨 | 通过法术储存戒指施放虚假生命 False Life | 获得 9 点临时生命值；戒指本次长休使用次数已消耗 |
 | 第 4 天早晨 | 掷出预兆骰并施放法师护甲 Mage Armor | 预兆骰为 11、6，均未使用；消耗 1 个 1 环法术位，当前 3 / 4；8 小时内 AC 为 14 |
+| 第 4 天，具体时段未记录 | 获得经验 | XP +75，总 XP 2504 |
 
 ## 已确认项
 
