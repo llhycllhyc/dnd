@@ -11,8 +11,8 @@
 | 护甲等级 Armor Class (AC) | 11（法师护甲 Mage Armor 已准备但尚未施放） |
 | 生命骰 Hit Dice | 4d6，已用 0 |
 | 1 环法术位 1st-level Spell Slots | 4 / 4 |
-| 2 环法术位 2nd-level Spell Slots | 2 / 3 |
-| 奥术回复 Arcane Recovery | 可用；本次长休后恢复使用次数 |
+| 2 环法术位 2nd-level Spell Slots | 3 / 3 |
+| 奥术回复 Arcane Recovery | 本次长休后已使用；下次长休恢复使用次数 |
 | 预兆 Portent | 本次长休掷出 3、19；均未使用 |
 | 魔法启蒙（法师）Magic Initiate (Wizard) 免费护盾术 Shield | 可用 |
 | 法术储存戒指 Spell-Storing Ring | 本次长休使用次数已由 Kael 施放虚假生命 False Life 耗尽；法术仍储存在戒指中 |
@@ -515,6 +515,7 @@
 | 第 4 天，具体时段未记录 | 获得经验 | XP +10，总 XP 4023 |
 | 第 4 天，具体时段未记录 | 获得临时生命并使用法术储存戒指 | Nym 当前获得 8 点临时生命，来源与持续时间未记录；戒指中的虚假生命 False Life 由 Kael 使用，本次长休的戒指使用次数耗尽 |
 | 第 4 天，具体时段未记录 | 消耗 2 环法术位并获得经验 | 2 环法术位 -1，当前 2 / 3；施放的具体法术未记录。XP +300，总 XP 4323 |
+| 第 4 天，具体时段未记录 | 完成短休并使用奥术回复 Arcane Recovery | 恢复 1 个 2 环法术位，当前 3 / 3；奥术回复本次长休后已使用 |
 
 ## 已确认项
 
