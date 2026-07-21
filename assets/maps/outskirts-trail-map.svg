@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
   <title id="title">神源镇东北城门外追踪地图</title>
-  <desc id="desc">KEN小队从神源镇东北城门出发，先向东北走了一小段，发现战斗痕迹和脚印后转向北方，沿脚印行进数公里后抵达与僵尸战斗的河流；河流在此向北弯折。战斗后，小队沿河向北行进一段并渡河抵达森林小屋；Nym在小屋战斗与调查后完成短休，随后小队返回神源镇。一名临终护卫说明托比厄斯·星眠逃往小屋北方的观测站旧址，距离未知。近期黑潮战场位于神源镇东方，图中用贯穿东侧的方向带表示。</desc>
+  <desc id="desc">KEN小队从神源镇东北城门出发，先向东北走了一小段，发现战斗痕迹和脚印后转向北方，沿脚印行进数公里后抵达与僵尸战斗的河流；河流在此向北弯折。战斗后，小队沿河向北行进一段并渡河抵达森林小屋；Nym在小屋战斗与调查后完成短休，随后小队返回神源镇。一名临终护卫说明托比厄斯·星眠逃往小屋北方的观测站旧址；小队后来到访旧址并救出导师，但精确路线与距离未测绘。近期黑潮战场位于神源镇东方，图中用贯穿东侧的方向带表示。</desc>
   <defs>
     <pattern id="fog" width="22" height="22" patternUnits="userSpaceOnUse" patternTransform="rotate(28)">
       <rect width="22" height="22" fill="#e8eaeb"/>
@@ -132,10 +132,10 @@
   <text x="515" y="193" text-anchor="end" class="label note">噬脑怪战斗与星象盘发现处</text>
   <text x="515" y="218" text-anchor="end" class="label note">Nym 短休后返回神源镇</text>
 
-  <!-- The observatory direction is known, but the route and distance are not. -->
-  <path d="M590 95 V32" fill="none" stroke="#555d60" stroke-width="4" stroke-dasharray="9 8" marker-end="url(#unknownArrow)"/>
-  <text x="530" y="48" text-anchor="end" class="label medium">北方观测站旧址（未探明）</text>
-  <text x="530" y="74" text-anchor="end" class="label note">托比厄斯逃往此处 · 距离未知</text>
+  <!-- The observatory was later reached; its exact route and distance remain unmapped. -->
+  <path d="M590 95 V32" fill="none" stroke="#8b3d2e" stroke-width="5" stroke-dasharray="9 8" marker-end="url(#routeArrow)"/>
+  <text x="530" y="48" text-anchor="end" class="label medium">北方观测站旧址（已到访）</text>
+  <text x="530" y="74" text-anchor="end" class="label note">救出托比厄斯 · 路线与距离未测</text>
 
   <!-- Compass. -->
   <g transform="translate(1265 706)">

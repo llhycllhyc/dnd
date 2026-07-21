@@ -1,51 +1,41 @@
 # DND Campaign Workspace
 
-这个仓库用于记录当前 D&D 2024 / 5R 跑团资料。主要内容分为角色事实、队伍战役记录、团桌裁定和升级建议四类。
+这个仓库用于记录 D&D 2024 / 5R 跑团的**已确认事实**、角色状态、战役地图与团桌裁定。建议、构筑与尚未确认的推测不作为战役事实写入角色卡。
 
-## 快速入口
+## 战役入口
 
-- [Nym 个人角色卡](characters/nym-copperstar.md)
-- [蛋蛋个人角色卡](characters/egg_cleric.md)
-- [Kael Ironheart 个人角色卡](characters/kael-ironheart.md)
-- [KEN 小队与战役记录](campaign/ken-party.md)
-- [KEN 小队探索地图](campaign/maps.md)
+| 战役 | 状态 | 资料入口 |
+|---|---|---|
+| KEN：第一章 | 已完结，暂时搁置 | [小队与战役记录](campaign/ken-party.md) · [探索与终章地图](campaign/maps.md) · [Nym 角色卡](characters/nym-copperstar.md) |
+| 新团 | 筹备中；3 人、20 级开局 | [新团首页](campaigns/next-campaign/README.md) · [角色卡目录](campaigns/next-campaign/characters/README.md) |
+
+## KEN：第一章快照
+
+- 小队：KEN；成员为 [Nym](characters/nym-copperstar.md)、[蛋蛋](characters/egg_cleric.md) 与 [凯恩·铁心 Kael Ironheart](characters/kael-ironheart.md)。
+- 结局：小队经由马特的传送法阵穿过冻结迷雾区，抵达诸神试验场边界并目睹灭世魔法流星爆；随后在铁血营寨大厅醒来。第一章在此暂停。
+- 资料状态：角色数值仅保留最后一次明确记录。诸神试验场回溯后的具体生命、法术位、物品状态和人物去向，均须以 DM 后续裁定为准。
+
+## 新团：20 级角色创建
+
+- 三位玩家各自维护自己的文件，位置见 [新团角色卡目录](campaigns/next-campaign/characters/README.md)。
+- 角色名称、职业、规则来源、属性生成、起始装备和世界观尚未确定；因此占位角色卡不预设任何构筑选择。
+- 新团资料与 KEN 第一章分开存放，避免角色、物品、经验与地图互相混淆。
+
+## 共享资料
+
 - [团桌规则与版本裁定](campaign/table-rulings.md)
 - [Nym 升级与战术推荐](planning/nym-recommendations.md)
 
-## 当前快照
+## 目录约定
 
-| 项目 | 当前值 |
-|---|---|
-| 游戏内日期 | 第 2 天 |
-| 当前地点 | Nym 与蛋蛋已返回神源镇内旅馆；Kael 此前留在女神像附近协助巡逻队清洗雕像；众人与马特约定稍后在旅馆见面 |
-| 小队名称 | KEN |
-| 队长 | 尼姆·铜星 Nym Copperstar |
-| 成员 | [Nym](characters/nym-copperstar.md)、[蛋蛋](characters/egg_cleric.md)、[凯恩·铁心 Kael Ironheart](characters/kael-ironheart.md) |
-| 队伍构成 | 三名外来玩家角色（均非本地人） |
-| 当前主线方向 | 已知托比厄斯·星眠在护卫遭袭后逃往北方观测站旧址；小队现已带着他留下的星象盘返回神源镇 |
-
-## 角色快照
-
-| 角色 | 职业 | 等级 | 总经验 / 下一级门槛 | 当前 HP |
-|---|---|---:|---:|---:|
-| [Nym](characters/nym-copperstar.md) | 预言法师 Diviner | 3 | 1142 / 2700 | 20 / 20 |
-| [蛋蛋](characters/egg_cleric.md) | 牧师 Cleric | 2 | 736 / 900 | 19 / 19 |
-| [凯恩·铁心 Kael Ironheart](characters/kael-ironheart.md) | 战士 Fighter | 2 | 760 / 900 | 20 / 24 |
-
-法术位、职业资源、物品和金币等详细状态以各自角色卡为准。
+- `characters/`：KEN 第一章角色卡。只记录对应角色的事实与状态。
+- `campaign/`：KEN 第一章小队、剧情、地图说明与共享裁定。
+- `assets/maps/`：可直接在 GitHub 预览的 KEN 地图；未知区域不会被补写为事实。
+- `campaigns/next-campaign/`：新团独立资料区，包含新团概览与三位玩家的 20 级角色卡。
+- `planning/`：建议与规划，不替代实际角色状态。
 
 ## 维护原则
 
-- `characters/`：只放角色事实，例如属性、法术、物品、状态、背景。
-- `campaign/`：放队伍事实与共享裁定，例如任务、线索、NPC、冒险日志、版本和法术桌规。
-- `assets/maps/`：放可直接在 GitHub 预览的探索地图；未知区域不会补写为事实。
-- `planning/`：放建议和规划，例如升级路线、法术选择、战术取舍。
-
-更新时优先保持“事实”和“建议”分离。角色实际发生变化时更新角色卡；剧情推进时更新战役记录；对未来选择的分析放进推荐文件。
-
-## 规则版本
-
-- D&D 2024 / 5R
-- 起始等级：2 级
-- 当前小队职业：Nym 法师、蛋蛋牧师、Kael 战士
-- 已记录的 3 级计划：Nym 选择预言法师；Kael 选择战术大师
+- 只修改自己负责的角色卡；共同剧情更新写入 `campaign/` 或新团的战役目录。
+- 先记录实际发生的事，再记录数值结算；DM 未明确的后果使用“待确认”标注。
+- 推送前检查链接、角色经验、物品归属与小队日志是否一致。
