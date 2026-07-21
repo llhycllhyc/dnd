@@ -137,7 +137,7 @@
 
 | 环位 / Level | 准备法术 / Prepared Spells |
 |---|---|
-| 1 环 / 1st | 护盾术 / Shield；法师护甲 / Mage Armor；虚假生命 / False Life；羽落术 / Feather Fall；防护善恶 / Protection from Evil and Good（低于 500 gp 的消耗免费 / low-cost consumed component is free by campaign rule） |
+| 1 环 / 1st | 护盾术 / Shield；法师护甲 / Mage Armor；虚假生命 / False Life；羽落术 / Feather Fall；防护善恶 / Protection from Evil and Good（单件不高于 500 gp 的材料免费 / components worth 500 gp or less are free by campaign rule） |
 | 2 环 / 2nd | 迷踪步 / Misty Step；心灵尖刺 / Mind Spike；蛛网术 / Web |
 | 3 环 / 3rd | 飞行术 / Fly；催眠图纹 / Hypnotic Pattern；缓慢术 / Slow；冰雨暴 / Sleet Storm；移除诅咒 / Remove Curse |
 | 4 环 / 4th | 放逐术 / Banishment；任意门 / Dimension Door；火焰护盾 / Fire Shield |
@@ -165,6 +165,7 @@
 | 大群敌人 / Hordes | 流星爆 / Meteor Swarm；连锁闪电 / Chain Lightning；重力反转 / Reverse Gravity | 放逐术、力场囚笼、迷宫术 |
 | 长途或断补给探索 / Extended expedition | 莫登肯宏伟宅邸 / Mordenkainen's Magnificent Mansion；传送法阵 / Teleportation Circle | 低环局部战斗法术 |
 | 已知传奇单体 / Known legendary solo | 解离术 / Disintegrate；心灵遥控 / Telekinesis；欧提路克弹力法球 / Otiluke's Resilient Sphere | 蛛网术、催眠图纹、冰雨暴 |
+| 已知反魔法领域或高阶施法者 / Known Antimagic Field or high-level caster | 虹光法墙 / Prismatic Wall；石墙术 / Wall of Stone；识破隐形 / See Invisibility；反制法术 / Counterspell 始终可用 | 预见术、蛛网术、催眠图纹；虹光法墙必须在领域覆盖前建立，石墙术用于制造不依赖魔法的撤离与分隔 |
 
 ### 后 20 级进阶 / Post-20 Advancement
 
@@ -191,10 +192,10 @@
 |---|---|
 | 戏法 / Cantrips | 心灵之楔 / Mind Sliver；冻寒射线 / Ray of Frost；火焰箭 / Fire Bolt；法师之手 / Mage Hand；次级幻影 / Minor Illusion |
 | 1 环 / 1st | 警报术 / Alarm（仪式）；通晓语言 / Comprehend Languages（仪式）；侦测魔法 / Detect Magic（仪式）；羽落术 / Feather Fall；虚假生命 / False Life；寻获魔宠 / Find Familiar（仪式）；云雾术 / Fog Cloud；油腻术 / Grease；鉴定术 / Identify（仪式）；大步奔行 / Longstrider；法师护甲 / Mage Armor；魔法飞弹 / Magic Missile；防护善恶 / Protection from Evil and Good；护盾术 / Shield；塔莎狂笑术 / Tasha's Hideous Laughter；隐形仆役 / Unseen Servant（仪式） |
-| 2 环 / 2nd | 秘法锁 / Arcane Lock；朦胧术 / Blur；隐形术 / Invisibility；浮空术 / Levitate；魔法嘴 / Magic Mouth（仪式）；心灵尖刺 / Mind Spike；镜影术 / Mirror Image；迷踪步 / Misty Step；绳技 / Rope Trick；灼热射线 / Scorching Ray；识破隐形 / See Invisibility；蛛网术 / Web |
+| 2 环 / 2nd | 秘法锁 / Arcane Lock；朦胧术 / Blur；隐形术 / Invisibility；浮空术 / Levitate；魔法嘴 / Magic Mouth（仪式）；心灵尖刺 / Mind Spike；镜影术 / Mirror Image；迷踪步 / Misty Step；耐斯图尔的魔法灵光 / Nystul's Magic Aura；绳技 / Rope Trick；识破隐形 / See Invisibility；蛛网术 / Web |
 | 3 环 / 3rd | 鹰眼术 / Clairvoyance；法术反制 / Counterspell；解除魔法 / Dispel Magic；火球术 / Fireball；飞行术 / Fly；守卫刻文 / Glyph of Warding；催眠图纹 / Hypnotic Pattern；李欧蒙小屋 / Leomund's Tiny Hut（仪式）；魔法阵 / Magic Circle；魅影驹 / Phantom Steed（仪式）；防护能量伤害 / Protection from Energy；移除诅咒 / Remove Curse；缓慢术 / Slow；冰雨暴 / Sleet Storm；水下呼吸 / Water Breathing（仪式） |
 | 4 环 / 4th | 秘法眼 / Arcane Eye；放逐术 / Banishment；召唤次级元素 / Conjure Minor Elementals；任意门 / Dimension Door；火焰护盾 / Fire Shield；高等隐形术 / Greater Invisibility；莫登凯宁的忠实猎犬 / Mordenkainen's Faithful Hound；莫登凯宁的私人密室 / Mordenkainen's Private Sanctum；欧提路克弹力法球 / Otiluke's Resilient Sphere；变形术 / Polymorph |
-| 5 环 / 5th | 活化物体 / Animate Objects；毕格比之手 / Bigby's Hand；异界探知 / Contact Other Plane（仪式）；寒冰锥 / Cone of Cold；怪物定身术 / Hold Monster；拉瑞心灵联结 / Rary's Telepathic Bond（仪式）；突触静止 / Synaptic Static；心灵遥控 / Telekinesis；传送法阵 / Teleportation Circle；力场墙 / Wall of Force |
+| 5 环 / 5th | 毕格比之手 / Bigby's Hand；异界探知 / Contact Other Plane（仪式）；怪物定身术 / Hold Monster；传奇知识 / Legend Lore；拉瑞心灵联结 / Rary's Telepathic Bond（仪式）；突触静止 / Synaptic Static；心灵遥控 / Telekinesis；传送法阵 / Teleportation Circle；力场墙 / Wall of Force；石墙术 / Wall of Stone |
 | 6 环 / 6th | 连锁闪电 / Chain Lightning；触发术 / Contingency；解离术 / Disintegrate；法术无效结界 / Globe of Invulnerability；守卫结界 / Guards and Wards；群体暗示术 / Mass Suggestion；魔魂壶 / Magic Jar；真知术 / True Seeing |
 | 7 环 / 7th | 力场囚笼 / Forcecage；莫登肯宏伟宅邸 / Mordenkainen's Magnificent Mansion；重力反转 / Reverse Gravity；拟像术 / Simulacrum；徽记术 / Symbol；传送术 / Teleport |
 | 8 环 / 8th | 反魔法力场 / Antimagic Field；心智迷乱 / Befuddlement；克隆术 / Clone；心灵屏障 / Mind Blank；迷宫术 / Maze；心灵感应 / Telepathy |
@@ -231,20 +232,22 @@
 |---|---|
 | 触发术宝石雕像 / Contingency statuette | 1；价值 1,500 gp，不消耗，随身携带 / one 1,500-gp nonconsumed statuette, carried |
 | 克隆术材料 / Clone components | 1 套；独立复原库保存 / one set, stored in separate recovery vault |
-| 拟像术红宝石粉 / Simulacrum ruby dust | 1 次；只在 DM 允许开局已有拟像时消耗 / one use, only if DM permits an initial simulacrum |
+| 拟像术红宝石粉 / Simulacrum ruby dust | 1 次；主方案为开团前用正常 7 环位施放 12 小时，随后本体长休恢复环位；拟像本身不能休息恢复资源 / one use; normally cast with a 7th-level slot before play, then the original takes a Long Rest; the simulacrum cannot rest to recover resources |
 | 力场囚笼红宝石粉 / Forcecage ruby dust | **2 次**；每次价值 1,500 gp，保留给决定性敌人 / **two uses**, 1,500 gp each, reserved for decisive targets |
 | 高价基地耗材 / High-cost base components | 徽记术 2 次；每次 1,000 gp。低价免费规则不适用 / two Symbols at 1,000 gp each; not covered by low-cost rule |
-| 免费施法耗材 / Free consumed components | 守卫刻文、秘法锁、魔法嘴、防护善恶、寻获魔宠、真知术与魔法阵的低价消耗均免费；仍需施法时间、法术位与固定基地 / consumed components below 500 gp are free; time, slots, and fixed-site limits remain |
-| 非消耗材料 / Nonconsumed components | 鉴定术珍珠（100 gp）、宏伟宅邸模型门（15 gp）、触发术雕像与克隆容器等仍正常计价 / Identify pearl, Mansion miniature gate, Contingency statuette, and Clone vessel remain paid |
-| 余款 / Remaining funds | **835 gp**（已购精金半身甲、盾牌与第二份力场囚笼红宝石粉；原稿其他预算均获批准时 / after armor, shield, and second Forcecage component, assuming the reference budget is approved） |
+| 免费低价施法材料 / Free low-cost components | 单件不高于 500 gp 的材料均免费，包括守卫刻文、秘法锁、魔法嘴、防护善恶、寻获魔宠、真知术、魔法阵、传送法阵墨水、鉴定术珍珠与宏伟宅邸模型门；仍需施法时间、法术位与固定基地 / all components worth 500 gp or less are free, whether consumed or not; time, slots, and fixed-site limits remain |
+| 仍需付费的材料 / Paid components | 触发术雕像（1,500 gp）、克隆术钻石与容器（3,000 gp）、拟像术红宝石粉（1,500 gp）、力场囚笼红宝石粉 2 次（3,000 gp）、徽记术钻石粉 2 次（2,000 gp） / only components above 500 gp remain paid |
+| 余款 / Remaining funds | **950 gp**；保留为高价材料与实体基地的流动储备，不预先换成会被反魔法领域压制的低优先级物品 / held as liquid reserve for high-cost components and physical fortification |
 
 ## 出发与基地预案 / Deployment and Base Plan
 
 - 固定基地采用 [暮幕壁垒基地预案](../base-plan.md)：外环发现、接收缓冲、内层寝室与分离复原库构成多层防护。
 - 当前每日优先顺序：法师护甲、镜影术、长距离移动与队伍通讯；后 20 级成长 1 改为精金半身甲与盾牌，腾出法师护甲的准备位。
+- 若 DM 允许开团前准备，先以正常 7 环位完成拟像术，再由本体完成一次长休。这样本体的 9 环位可在第一场战斗保留给预见术、祈愿术或已知反魔法日的虹光法墙；拟像只承担一次性情报、支援和关键战斗资源，不安排它进行会耗尽后无法恢复的日常施法。
 - **预见术 / Foresight**优先给预期承受关键攻击或承担关键检定者。若拟像存在，拟像更适合承担预见术或心灵屏障，保留本体的 8、9 环位。
 - 传奇刺客或未知施法者来袭时，先用预兆、命运恩惠、护盾术与反制法术避免第一轮失控；确认威胁后再选择撤离、力场墙、力场囚笼或迷宫术。
 - 反魔法力场会同时压制瑟伦的法术与多件同调物品，不能作为日常睡眠防护；仅在已知威胁值得交换这些能力时准备。
+- 已知反魔法威胁时，优先在领域外以反制法术阻止其落地；若无法阻止，以石墙术的永久实体墙、普通门闩、半身甲和盾牌完成撤离。虹光法墙仅在已确认场地与时机时预设，不把传送、力场囚笼或魔法物品当作领域内的解法。
 - 每次胜利回到基地后：恢复、补齐低价符文层、结算兼职等级与新的准备位，再按下一名主要敌人 CR +2 的情报重配法术。
 
 ## 开团前 DM 确认 / DM Confirmation Required
@@ -252,5 +255,5 @@
 1. 极珍稀物品变现、魔法物品价格与起始 40,000 gp 资源池是否成立。
 2. 92 个法术、394 个法术环阶的法术书，及其抄录时间、备用书分卷是否可在开局前完成。
 3. 基地是否已建成，长期防护法术是否允许预先布置并保留到第一场冒险。
-4. 拟像术 / Simulacrum 能否在开局前完成；若可，拟像装备、法术位与行动权如何处理。
+4. 拟像术 / Simulacrum 能否在开局前完成；若可，确认其以“本体满资源时施放、随后本体长休”的状态复制，拟像装备、法术位、行动权与 100 gp / HP 修理材料如何处理。
 5. 预置术 / Contingency 与任意门 / Dimension Door 的触发条件、目的地和失去意识时的互动如何裁定。

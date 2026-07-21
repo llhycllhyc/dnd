@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
   <title id="title">暮幕壁垒基地预案</title>
-  <desc id="desc">20级以上小队固定基地的分层警戒、免费低价符文工坊、接收缓冲、战术中枢、寝室、档案室、复原库、升华同调室和撤离节点示意图。</desc>
+  <desc id="desc">20级以上小队固定基地的分层警戒、免费低价施法材料工坊、实体反魔法缓冲、接收缓冲、战术中枢、寝室、档案室、复原库、升华同调室和撤离节点示意图。</desc>
   <style>
     .bg { fill: #f5f2e8; }
     .line { fill: none; stroke: #34495e; stroke-width: 4; }
@@ -20,7 +20,7 @@
   </defs>
   <rect class="bg" width="1400" height="820"/>
   <text class="title" x="70" y="62">暮幕壁垒 / The Veiled Redoubt</text>
-  <text class="subtitle" x="70" y="94">固定基地建设草案：发现 - 符文缓冲 - 撤离 - 升华。全部布置需 DM 确认。</text>
+  <text class="subtitle" x="70" y="94">固定基地建设草案：发现 - 符文与实体缓冲 - 撤离 - 升华。全部布置需 DM 确认。</text>
 
   <rect x="70" y="145" width="930" height="590" rx="8" fill="#dfe9dc" class="zone"/>
   <text class="label" x="95" y="180">A. 外环 / Outer Ring</text>
@@ -33,7 +33,8 @@
   <text class="small" x="166" y="390">传送接收</text>
   <text class="small" x="166" y="416">访客识别</text>
   <text class="small" x="166" y="442">战利品隔离</text>
-  <text class="small" x="166" y="486">主门不直通内层</text>
+  <text class="small" x="166" y="468">实体折角间距 ≥25尺</text>
+  <text class="small" x="166" y="494">主门不直通内层</text>
 
   <rect x="425" y="265" width="290" height="270" rx="6" fill="#b7d7e8" class="zone"/>
   <text class="label" x="454" y="310">C. 战术中枢</text>
@@ -63,7 +64,7 @@
   <rect x="1080" y="445" width="245" height="155" rx="6" fill="#f0df9f" class="zone"/>
   <text class="label" x="1103" y="487">H. 符文工坊</text>
   <text class="small" x="1103" y="515">Warding Foundry</text>
-  <text class="small" x="1103" y="547">低价免费耗材</text>
+  <text class="small" x="1103" y="547">低价免费材料</text>
   <text class="small" x="1103" y="574">按分区重置符文</text>
 
   <rect x="1080" y="650" width="245" height="80" rx="6" fill="#d5c7e8" class="zone"/>
@@ -91,5 +92,5 @@
   <text class="note" x="1040" y="205">separate site</text>
 
   <rect x="70" y="765" width="1255" height="1" fill="#7f8c8d"/>
-  <text class="note" x="70" y="796">注意：免费低价耗材可增加层数，但不能绕过施法时间、法术位、地点限制或敌人的反制；每次长休前确认口令、集合点与撤离路线。</text>
+  <text class="note" x="70" y="796">注意：单件不高于 500 gp 的施法材料免费，但不能绕过施法时间、法术位、地点限制或反魔法；每次长休前确认口令、实体缓冲与撤离路线。</text>
 </svg>
