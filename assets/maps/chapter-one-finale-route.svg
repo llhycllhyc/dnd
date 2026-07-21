@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620" role="img" aria-labelledby="title desc">
+  <title id="title">KEN 第一章终章跨界路线图</title>
+  <desc id="desc">非按比例的事件与移动顺序图：小队从神源镇连续战斗，经马特传送法阵穿过冻结迷雾区，到达诸神试验场边界，目睹流星爆后在铁血营寨大厅醒来。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto">
+      <path d="M0,0 L14,7 L0,14 Z" fill="#8b3d2e"/>
+    </marker>
+    <style>
+      .label { font-family: Inter, "Noto Sans SC", "Microsoft YaHei", sans-serif; fill: #202629; letter-spacing: 0; }
+      .title { font-size: 34px; font-weight: 750; }
+      .node { font-size: 23px; font-weight: 650; }
+      .note { fill: #555d60; font-size: 17px; }
+      .small { fill: #555d60; font-size: 15px; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="620" fill="#f4f2ea"/>
+  <rect x="24" y="24" width="1352" height="572" rx="6" fill="#f8f7f2" stroke="#333b3e" stroke-width="3"/>
+  <text x="60" y="78" class="label title">KEN 第一章终章跨界路线</text>
+  <text x="60" y="108" class="label note">事件顺序图，不代表实际距离、方位或世界之间的空间比例</text>
+
+  <path d="M178 290 H332 M482 290 H636 M786 290 H940 M1090 290 H1235" fill="none" stroke="#8b3d2e" stroke-width="7" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+  <g transform="translate(70 205)">
+    <rect width="220" height="170" rx="6" fill="#dfe9d8" stroke="#59636a" stroke-width="3"/>
+    <text x="110" y="52" text-anchor="middle" class="label node">神源镇</text>
+    <text x="110" y="84" text-anchor="middle" class="label note">空间裂痕</text>
+    <text x="110" y="111" text-anchor="middle" class="label note">托比厄斯返灯塔城</text>
+    <text x="110" y="142" text-anchor="middle" class="label small">城墙与城中连续战斗</text>
+  </g>
+
+  <g transform="translate(375 205)">
+    <rect width="220" height="170" rx="6" fill="#efe1d1" stroke="#8b3d2e" stroke-width="3"/>
+    <text x="110" y="52" text-anchor="middle" class="label node">马特的传送法阵</text>
+    <text x="110" y="84" text-anchor="middle" class="label note">前线崩溃后撤离</text>
+    <text x="110" y="111" text-anchor="middle" class="label note">吉拉尔先行撤退</text>
+    <text x="110" y="142" text-anchor="middle" class="label small">跨界起点</text>
+  </g>
+
+  <g transform="translate(680 205)">
+    <rect width="220" height="170" rx="6" fill="#dfe7e9" stroke="#4f6973" stroke-width="3"/>
+    <text x="110" y="52" text-anchor="middle" class="label node">冻结迷雾区</text>
+    <text x="110" y="84" text-anchor="middle" class="label note">已通过</text>
+    <text x="110" y="115" text-anchor="middle" class="label small">内部地形与路径未探明</text>
+  </g>
+
+  <g transform="translate(985 205)">
+    <rect width="220" height="170" rx="6" fill="#e8e2f1" stroke="#664f7d" stroke-width="3"/>
+    <text x="110" y="52" text-anchor="middle" class="label node">诸神试验场边界</text>
+    <text x="110" y="84" text-anchor="middle" class="label note">目睹灭世魔法流星爆</text>
+    <text x="110" y="115" text-anchor="middle" class="label small">空间与时间机制待确认</text>
+  </g>
+
+  <path d="M1095 392 C1095 465 930 485 805 485 C670 485 610 455 610 405" fill="none" stroke="#4b5f6c" stroke-width="6" stroke-dasharray="12 10" marker-end="url(#arrow)"/>
+  <g transform="translate(432 422)">
+    <rect width="355" height="112" rx="6" fill="#e7ded2" stroke="#684f37" stroke-width="3"/>
+    <text x="177" y="47" text-anchor="middle" class="label node">铁血营寨大厅</text>
+    <text x="177" y="78" text-anchor="middle" class="label note">众人醒来；Ektos 取走两件伪装物</text>
+    <text x="177" y="100" text-anchor="middle" class="label small">第一章结束，恶魔之门成为后续目标</text>
+  </g>
+
+  <text x="1340" y="570" text-anchor="end" class="label small">玩家已知路线 · 终章后信息按 DM 后续裁定更新</text>
+</svg>
