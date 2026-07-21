@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
   <title id="title">暮幕壁垒基地预案</title>
-  <desc id="desc">20级小队固定基地的分层警戒、接收缓冲、战术中枢、寝室、档案室、复原库和撤离节点示意图。</desc>
+  <desc id="desc">20级以上小队固定基地的分层警戒、免费低价符文工坊、接收缓冲、战术中枢、寝室、档案室、复原库、升华同调室和撤离节点示意图。</desc>
   <style>
     .bg { fill: #f5f2e8; }
     .line { fill: none; stroke: #34495e; stroke-width: 4; }
@@ -20,7 +20,7 @@
   </defs>
   <rect class="bg" width="1400" height="820"/>
   <text class="title" x="70" y="62">暮幕壁垒 / The Veiled Redoubt</text>
-  <text class="subtitle" x="70" y="94">固定基地建设草案：发现 - 拖延 - 撤离。全部布置需 DM 确认。</text>
+  <text class="subtitle" x="70" y="94">固定基地建设草案：发现 - 符文缓冲 - 撤离 - 升华。全部布置需 DM 确认。</text>
 
   <rect x="70" y="145" width="930" height="590" rx="8" fill="#dfe9dc" class="zone"/>
   <text class="label" x="95" y="180">A. 外环 / Outer Ring</text>
@@ -54,11 +54,21 @@
   <text class="small" x="800" y="580">分卷法术书</text>
   <text class="small" x="800" y="608">研究与鉴定</text>
 
-  <rect x="1080" y="260" width="245" height="180" rx="6" fill="#e6c0bf" class="zone"/>
-  <text class="label" x="1103" y="302">F. 复原库</text>
-  <text class="small" x="1103" y="330">Recovery Vault</text>
-  <text class="small" x="1103" y="362">克隆容器与高价值耗材</text>
-  <text class="small" x="1103" y="392">与主建筑物理分离</text>
+  <rect x="1080" y="215" width="245" height="165" rx="6" fill="#e6c0bf" class="zone"/>
+  <text class="label" x="1103" y="257">F. 复原库</text>
+  <text class="small" x="1103" y="285">Recovery Vault</text>
+  <text class="small" x="1103" y="317">克隆容器与高价值耗材</text>
+  <text class="small" x="1103" y="347">与主建筑物理分离</text>
+
+  <rect x="1080" y="445" width="245" height="155" rx="6" fill="#f0df9f" class="zone"/>
+  <text class="label" x="1103" y="487">H. 符文工坊</text>
+  <text class="small" x="1103" y="515">Warding Foundry</text>
+  <text class="small" x="1103" y="547">低价免费耗材</text>
+  <text class="small" x="1103" y="574">按分区重置符文</text>
+
+  <rect x="1080" y="650" width="245" height="80" rx="6" fill="#d5c7e8" class="zone"/>
+  <text class="label" x="1103" y="683">I. 升华同调</text>
+  <text class="small" x="1103" y="710">Ascension &amp; Attunement</text>
 
   <circle cx="182" cy="620" r="38" fill="#f3b6a6" class="zone"/>
   <text class="label" x="163" y="628">G1</text>
@@ -74,10 +84,12 @@
   <path class="arrow" d="M49 403 H128"/>
   <text class="note" x="32" y="374">外来者</text>
   <text class="note" x="25" y="395">Intruder</text>
-  <path class="thin" d="M945 315 H1080"/>
-  <text class="note" x="1040" y="230">独立位置</text>
-  <text class="note" x="1040" y="250">separate site</text>
+  <path class="thin" d="M945 298 H1080"/>
+  <path class="thin" d="M945 555 H1080"/>
+  <path class="thin" d="M1202 600 V650"/>
+  <text class="note" x="1040" y="185">独立位置</text>
+  <text class="note" x="1040" y="205">separate site</text>
 
   <rect x="70" y="765" width="1255" height="1" fill="#7f8c8d"/>
-  <text class="note" x="70" y="796">注意：任何结界、门锁、警报或容器都不是绝对防线；每次长休前确认口令、集合点、物资位置和撤离路线。</text>
+  <text class="note" x="70" y="796">注意：免费低价耗材可增加层数，但不能绕过施法时间、法术位、地点限制或敌人的反制；每次长休前确认口令、集合点与撤离路线。</text>
 </svg>
