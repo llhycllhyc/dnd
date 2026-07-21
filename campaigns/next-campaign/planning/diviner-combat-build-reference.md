@@ -1,6 +1,8 @@
 # D&D 2024：20级预言学派法师纯战斗构筑  
 # D&D 2024 Level 20 Diviner Wizard — Combat Build
 
+> **历史参考 / Historical Reference.** 本文件保留玩家提供的原始构筑与其 40,000 gp、出售《清晰思维之书》等旧前提，便于追溯取舍；现行规则、48,000 gp 账本与最终角色状态以 [团桌规则](../rulings.md)、[瑟伦·维尔角色卡](../characters/serren-vale.md) 和 [构筑审阅](serren-vale-build-notes.md) 为准。
+
 > **版本 / Version**：2024《玩家手册》角色与法术规则；魔法物品采用2024核心规则。  
 > **用途 / Purpose**：纯战斗循环、固定基地长休、战后获取神格碎片、可能遭遇传奇刺客。  
 > **语言 / Language**：所有法术、物品、技能与主要能力均采用中英双语。

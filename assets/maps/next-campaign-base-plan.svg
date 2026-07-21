@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
   <title id="title">暮幕壁垒基地预案</title>
-  <desc id="desc">20级以上小队固定基地的分层警戒、免费低价施法材料工坊、实体反魔法缓冲、接收缓冲、战术中枢、寝室、档案室、复原库、升华同调室和撤离节点示意图。</desc>
+  <desc id="desc">20级以上小队固定基地的分层警戒、免费低价施法材料工坊、实体反魔法缓冲、接收缓冲、战术中枢、寝室内的安全室、档案室、复原库、升华同调室和撤离节点示意图。</desc>
   <style>
     .bg { fill: #f5f2e8; }
     .line { fill: none; stroke: #34495e; stroke-width: 4; }
@@ -46,8 +46,9 @@
   <rect x="780" y="230" width="165" height="170" rx="6" fill="#d5c7e8" class="zone"/>
   <text class="label" x="800" y="272">D. 寝室</text>
   <text class="small" x="800" y="300">Private</text>
-  <text class="small" x="800" y="326">Quarters</text>
-  <text class="small" x="800" y="360">长休与个人物品</text>
+  <text class="small" x="800" y="324">Quarters</text>
+  <rect x="800" y="340" width="125" height="40" rx="3" fill="#e6c0bf" class="zone"/>
+  <text class="small" x="808" y="365">J. 安全室 / Safe</text>
 
   <rect x="780" y="480" width="165" height="170" rx="6" fill="#c7ded1" class="zone"/>
   <text class="label" x="800" y="522">E. 档案室</text>
@@ -92,5 +93,5 @@
   <text class="note" x="1040" y="205">separate site</text>
 
   <rect x="70" y="765" width="1255" height="1" fill="#7f8c8d"/>
-  <text class="note" x="70" y="796">注意：单件不高于 500 gp 的施法材料免费，但不能绕过施法时间、法术位、地点限制或反魔法；每次长休前确认口令、实体缓冲与撤离路线。</text>
+  <text class="note" x="70" y="796">注意：J 安全室与 G2 构成不依赖魔法的内层撤离；单件不高于 500 gp 的材料免费，但不能绕过施法时间、法术位、地点限制或反魔法。</text>
 </svg>
